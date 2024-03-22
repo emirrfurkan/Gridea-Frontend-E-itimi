@@ -121,4 +121,32 @@ header .logo {
   height: 500px;
   margin-top: 100px;
   margin-bottom: 100px;
+}
+
+.icon {
+  margin-top: 50px;
+  margin-left: 123px;
+  margin-right: 124px;
+  margin-bottom: 50px;
+  height: 348px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.icon .cats {
+  width: 30%;
+  text-align: center;
+}
+.icon .cats h4 {
+  color: #FFFFFF;
+  font-size: 18px;
+  margin-top: 25px;
+}
+.icon .cats p {
+  color: #FFFFFF;
+  line-height: 32px;
+  margin-top: 25px;
+  font-size: 18px;
+  opacity: 40%;
+  font-family: "Poppins";
+  height: 96px;
 }/*# sourceMappingURL=style.css.map */

@@ -149,6 +149,37 @@ header{
   
  
 }
+.icon{
+    margin-top: 50px;
+    margin-left: 123px;
+    margin-right: 124px;
+    margin-bottom: 50px;
+    height: 348px;
+    display: flex;
+    justify-content: space-evenly;
+    .cats{
+        width: 30%;
+        text-align: center;
+        h4{
+            color: #FFFFFF;
+            font-size: 18px;
+            margin-top: 25px;
+        }
+        p{
+            color: #FFFFFF;
+            line-height: 32px;
+            margin-top: 25px;
+            font-size: 18px;
+           opacity: 40%;
+            font-family: "Poppins";
+            height: 96px;
+        }
+      
+
+    }
+    
+}
+
 
 
 
