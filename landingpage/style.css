@@ -112,4 +112,13 @@ header .logo {
   margin-right: 100px;
   opacity: 20%;
   margin-top: 40px;
+}
+
+.img2 {
+  margin-left: 150px;
+  background-color: wheat;
+  width: 1080px;
+  height: 500px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }/*# sourceMappingURL=style.css.map */
