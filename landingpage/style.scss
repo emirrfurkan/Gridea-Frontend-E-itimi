@@ -53,6 +53,95 @@ header{
 
     }
 }
+.body{
+    margin-top: 77px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 77px;
+    justify-content: space-around;
+    display: flex;
+    .left{
+        margin-left: 100px;
+        margin-bottom: 104px;
+        margin-top: 94px;
+        margin-right: 115px;
+        display: flex;
+        flex-direction: column;
+        h1{
+            font-size: 75px;
+            color: #FFFFFF;
+            font-family: "Poppins", sans-serif;
+            line-height: 90px;
+           
+            
+           
+            
+            
+          
+           
+        }
+        p{
+            margin-top: 60px;
+            font-size: 18px;
+            color: gray;
+            width: 461px;
+            height: 64px;
+            
+        }
+        button{
+            border-radius: 15px;
+            border: 2px solid;
+            border-color: #F8D57E;
+            text-decoration: none;
+            border-width: 15px;
+            text-decoration: none;
+            background-color: #F8D57E;
+            color: #333333;
+            font-family: "Poppins", sans-serif;
+            
+            width: 175px;
+            
+            font-size: 18px;
+           
+        
+            
+        }
+        
+       
+      
+     
+      
+    }
+    .right{
+        width: 500px;
+        height: 446px;
+        margin-right: 100px;
+        border: 1px;
+        background-color: #333333;
+        margin-top: 100px;
+    }
+   
+}
+.hr1{
+    margin-left: 100px;
+    margin-right: 100px;
+    opacity: 20%;
+}
+.img{
+    
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.hr2{
+    margin-left: 100px;
+    margin-right: 100px;
+    opacity: 20%;
+    margin-top: 40px;
+
+}
+
+
+
 
 
 
